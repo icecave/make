@@ -1,5 +1,5 @@
 ################################################################################
-# Rinq Makefile for Docker
+# Icecave Makefile for Docker
 ################################################################################
 
 # Pre-requisites for building the Docker image. This would typically include

@@ -1,6 +1,6 @@
-# Rinq Makefiles
+# Icecave Makefiles
 
-This repository contains common Makefile configurations used by Rinq projects.
+This repository contains common Makefile configurations used by Icecave projects.
 
 **The contents is not intended to be used by third-parties and may change at any
 time without notice.**
@@ -17,5 +17,5 @@ SHELL := /bin/bash
 -include artifacts/make/go.mk
 
 artifacts/make/%.mk:
-	bash <(curl -s https://rinq.github.io/make/install) $*
+	bash <(curl -s https://icecave.github.io/make/install) $*
 ```

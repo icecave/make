@@ -1,5 +1,5 @@
 ################################################################################
-# Rinq Makefile for Go
+# Icecave Makefile for Go
 ################################################################################
 
 # To override the variables in this section, define them in the project's
